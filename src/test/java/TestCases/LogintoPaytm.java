@@ -18,17 +18,6 @@ import POM.HomePage;
 public class LogintoPaytm extends InitiateBrowser{
 	
 	
-	//WebDriver driver;	
-/*
-@BeforeClass
-public void initialization() throws IOException, InterruptedException
-{
-	//InitiateBrowser in=new InitiateBrowser();
-	//in.
-	browser();
-	
-}
-*/
 @Test(priority=1)	
 public void login() throws InterruptedException
 {
