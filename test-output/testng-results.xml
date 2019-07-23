@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="30567" started-at="2019-07-23T06:49:29Z" finished-at="2019-07-23T06:50:00Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="30567" started-at="2019-07-23T06:49:29Z" finished-at="2019-07-23T06:50:00Z">
+      <class name="TestCases.LogintoPaytm">
+        <test-method status="PASS" signature="browser()[pri:0, instance:TestCases.LogintoPaytm@8bd1b6a]" name="browser" is-config="true" duration-ms="16086" started-at="2019-07-23T06:49:29Z" finished-at="2019-07-23T06:49:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="login()[pri:1, instance:TestCases.LogintoPaytm@8bd1b6a]" name="login" duration-ms="13646" started-at="2019-07-23T06:49:45Z" finished-at="2019-07-23T06:49:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="entercreds()[pri:2, instance:TestCases.LogintoPaytm@8bd1b6a]" name="entercreds" duration-ms="784" started-at="2019-07-23T06:49:59Z" finished-at="2019-07-23T06:50:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- entercreds -->
+      </class> <!-- TestCases.LogintoPaytm -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
