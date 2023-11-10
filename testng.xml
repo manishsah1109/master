@@ -5,5 +5,5 @@
     <classes>
       <class name="TestCases.LogintoPaytm"/>
     </classes>
-  </test> <!-- Test -->
+  </test> <!-- Test --->
 </suite> <!-- Suite -->
